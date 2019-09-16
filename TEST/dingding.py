@@ -10,7 +10,7 @@ from lxml import etree
 
 
 def main():
-    url="https://oapi.dingtalk.com/robot/send?access_token=c46f62872c8829986763bb9cadaa12194d1f73466ce287bcd137cc0662822b67"
+    url="https://oapi.dingtalk.com/robot/send?access_token=token"
 
     header = {
          "Content-Type": "application/json"
